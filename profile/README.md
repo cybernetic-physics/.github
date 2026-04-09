@@ -11,4 +11,4 @@ Physical AI development platform. Run Isaac Lab in the cloud, discover reward fu
 
 **Links:**
 - [cyberneticphysics.com](https://cyberneticphysics.com)
-- [API](https://api.cyberneticphysics.com)
+- [API Docs](https://api.cyberneticphysics.com/v1)
